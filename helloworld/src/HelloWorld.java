@@ -1,5 +1,8 @@
 
 public class HelloWorld {
-asdfasdfasdf
+public static void main (String[] args){
+	System.out.println("kaixo git");
+	
 }
-asdfasdfasdf
+}
+
